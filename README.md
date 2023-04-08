@@ -25,7 +25,7 @@ This project aims to construct an NLP pipeline utilizing SciSpacy to perform cus
 The outcome will be extracting information regarding diseases, drugs, and drug doses and more from clinical text, which can then be utilized in our web app.
 
 ## 📸 Screenshots
-![01Home](https://user-images.githubusercontent.com/97466150/230714818-ba0239d4-014e-407b-9a18-f6bf1820d443.png | width=100 ) ![01Home](https://user-images.githubusercontent.com/97466150/230714835-4803bb35-5300-4055-8d9e-493f3b4814fc.png)
+![01Home](https://user-images.githubusercontent.com/97466150/230714818-ba0239d4-014e-407b-9a18-f6bf1820d443.png =250x250) ![01Home](https://user-images.githubusercontent.com/97466150/230714835-4803bb35-5300-4055-8d9e-493f3b4814fc.png)
 
 
 
