@@ -26,3 +26,14 @@ The outcome will be extracting information regarding diseases, drugs, and drug d
 
 ## 📸 Screenshots
 <img src="https://user-images.githubusercontent.com/97466150/230714818-ba0239d4-014e-407b-9a18-f6bf1820d443.png" width="500" height="300"> <img src="https://user-images.githubusercontent.com/97466150/230714835-4803bb35-5300-4055-8d9e-493f3b4814fc.png" width="500" height="300"> <img src="https://user-images.githubusercontent.com/97466150/230715085-983ee074-44bc-4e38-9e5f-2334608e3762.png" width="500" height="300"> <img src="https://user-images.githubusercontent.com/97466150/230715125-7fef61fb-a72f-4710-abac-347d45d5c5f3.png" width="500" height="300">
+
+## Implementation 
+We will develop a step-by-step Spacy pipeline using SciSpacy Model for Clinical Text.
+Platform: Google Colab
+NLP Libraries: spaCy & SciSpacy
+
+
+
+
+
+
