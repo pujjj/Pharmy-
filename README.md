@@ -33,6 +33,16 @@ We will develop a step-by-step Spacy pipeline using SciSpacy Model for Clinical 
 #### NLP Libraries: spaCy & SciSpacy
 
 
+## Install spacy & scispacy Packages.
+
+spaCy models are designed to perform specific NLP tasks, such as tokenization, part-of-speech tagging, and named entity recognition.
+```bash
+!pip install -U spacy
+!pip install scispacy
+
+```
+
+
 
 
 
