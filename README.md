@@ -29,8 +29,8 @@ The outcome will be extracting information regarding diseases, drugs, and drug d
 
 ## Implementation 
 We will develop a step-by-step Spacy pipeline using SciSpacy Model for Clinical Text.
-### Platform: Google Colab
-### NLP Libraries: spaCy & SciSpacy
+#### Platform: Google Colab
+#### NLP Libraries: spaCy & SciSpacy
 
 
 
