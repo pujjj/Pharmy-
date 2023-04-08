@@ -26,7 +26,7 @@ The outcome will be extracting information regarding diseases, drugs, and drug d
 
 ## 📸 Screenshots
 ![01Home](https://user-images.githubusercontent.com/97466150/230714818-ba0239d4-014e-407b-9a18-f6bf1820d443.png) 
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/97466150/230714818-ba0239d4-014e-407b-9a18-f6bf1820d443.png)" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/97466150/230714818-ba0239d4-014e-407b-9a18-f6bf1820d443.png" width="100" height="100">
 ![01Home](https://user-images.githubusercontent.com/97466150/230714835-4803bb35-5300-4055-8d9e-493f3b4814fc.png)
 
 
